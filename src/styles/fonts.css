@@ -1,0 +1,11 @@
+/* As fontes Playfair Display e Poppins são carregadas pelo index.html.
+   Aqui só definimos onde cada uma é usada. */
+body {
+    font-family: var(--fonte-texto);
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--fonte-titulo);
+}

@@ -1,0 +1,103 @@
+# Créditos das imagens (Wikimedia Commons)
+
+- mapa/floresta.jpg — José Rosael/HélioNobre/Museu Paulista da USP, Public domain — File:Acampamento em Área Devassada da Floresta Amazônica - 813, Acervo do Museu Paulista da USP.jpg
+- mapa/arara.jpg — Leonardo Ramos, CC BY-SA 4.0 — File:Arara Azul no Pantanal.jpg
+- mapa/tambaqui.jpg — Tino Strauss, CC BY-SA 3.0 — File:Piaractus sp, Zoo Leipzig 01.jpg
+- mapa/jambu.jpg — Tuxyso, CC BY-SA 3.0 — File:Acmella oleracea Grugapark.jpg
+- mapa/mandacaru.jpg — Aelton Silva Souza, CC BY-SA 4.0 — File:Cacto, conhecido como Mandacaru-Ba.jpg
+- mapa/coco.jpg — Scott Zona from Miami, Florida, USA, CC BY 2.0 — File:Syagrus pseudococos 3a (Scott Zona).jpg
+- mapa/praia.jpg — Andrevruas, CC BY 3.0 — File:Porto de galinhas 019.JPG
+- mapa/jangada.jpg — Boris Karpuk, CC BY-SA 3.0 — File:Jangada, Fortaleza, Ceará, Brazil - panoramio.jpg
+- mapa/gado.jpg — Rafaelsantiagomachado, CC BY-SA 3.0 — File:Lida diária.jpg
+- mapa/soja.jpg — Felipe Trombini, CC BY 3.0 — File:Plantação de Soja - panoramio.jpg
+- mapa/milho.jpg — Dragne Marius marius_dragne, CC0 — File:Grilled Corn (Unsplash).jpg
+- mapa/serra.jpg — Acauã Heuruel Cabral, CC BY-SA 4.0 — File:Serra da Mantiqueira - Acauã Cabral (08).jpg
+- mapa/industria.jpg — Wilfredor, CC BY-SA 4.0 — File:Palácio das Indústrias (São Paulo city).jpg
+- mapa/cafe.jpg — Josue Marinho, CC BY 3.0 — File:Carmo de Minas MG Brasil - Cafezal - panoramio.jpg
+- mapa/sao-paulo.jpg — Wilfredor, CC0 — File:Parque Avenida Building in Paulista Avenue.jpg
+- mapa/uva.jpg — STELLA SEGATTI, CC BY-SA 4.0 — File:PLANTAÇÕES DE UVA - VALE DOS VINHEDOS - RS.jpg
+- mapa/araucaria.jpg — Sapturnus, CC BY-SA 3.0 — File:Ipê Araucária PR.jpg
+- mapa/chimarrao.jpg — ChimaAddicted, CC BY-SA 4.0 — File:Erva mate chimarrao in big cuia.jpg
+- povos/indigenas.jpg — Eutellu, CC BY-SA 4.0 — File:Dia da Resistência Indígena Pajé Brasileiro.jpg
+- povos/portugueses.jpg — Image courtesy of Islands in the Sea 2002, NOAA/OER., Public domain — File:Portuguese Man-O-War (Physalia physalis).jpg
+- povos/africanos.jpg — Rodrigues Pozzebom, CC BY 3.0 br — File:Baiana-acarajé-Salvador.jpg
+- povos/holandeses.jpg — MTur Destinos, Public domain — File:BRUNO LIMA FORTE DAS CINCO PONTAS RECIFE PE (26050959427).jpg
+- povos/bandeirantes.jpg — Mural by João Eduardo, photo by Wilfredor, CC BY-SA 4.0 — File:Mural com referências a Lisboa e São Paulo no empório Arte Nata na Rua Frei Caneca, 1380 - bem perto da Avenida Paulista.jpg
+- povos/candangos.jpg — autor não informado, Public domain — File:Construção de Brasília 1958-3.jpg
+- povos/imigrantes.jpg — MARCO AURÉLIO ESPARZ…, CC BY-SA 3.0 — File:Engenho Santo Mario em Catanduva-SP, fundado em 1983 como fruto de um antigo sonho de Mario Seghese, filho de imigrantes italianos. De tradição artesanal e familiar, é reconhecido em todo o Brasil - panoramio.jpg
+- povos/tropeiros.jpg — Victor Sounds, CC BY-SA 2.0 — File:Rancho tropeiro entre MG e SP.jpg
+- povos/europeus.jpg — W.Feistler, CC BY-SA 3.0 — File:Oktoberfest - A maior festa alemã das Américas - Blumenau – SC - panoramio.jpg
+- mapa/onca.jpg — Charles J. Sharp, CC BY-SA 4.0 — File:Jaguar (Panthera onca palustris) male Rio Negro 2.JPG
+- comidas/tacaca.jpg — Ridiculopathy, CC0 — File:Tacacá soup at Tacacá do Renato, Belém, Brazil 03.jpg
+- comidas/pato-no-tucupi.jpg — MTur Destinos, Public domain — File:BrunaBrandao Pato no Tucupi Belem PA (26185651117).jpg
+- comidas/manicoba.jpg — Ana_Cotta, CC BY 2.0 — File:Manicoba.jpg
+- comidas/acai-com-peixe-frito.jpg — Elilopes, CC BY-SA 4.0 — File:Açai na tigela com peixe frito em Belem do Para.jpg
+- comidas/bolo-de-macaxeira.jpg — Obsidian Soul, CC BY-SA 4.0 — File:Cassava cake (Philippines) 6.jpg
+- comidas/pirao-de-peixe.jpg — Monica Kaneko, CC BY-SA 2.0 — File:Pirao com banana.jpg
+- comidas/bolo-de-castanha.jpg — Mário saraiva, CC0 — File:Chefe pasteleiro mário saraiva 02.jpg
+- comidas/chambari.jpg — Ashot2003, CC BY-SA 4.0 — File:Ynker Nunen u Hayky.jpg
+- comidas/bolinho-de-piracui.jpg — Just a Brazilian man from Brazil, CC BY 2.0 — File:Bolinho de piracuí. Brazilian Amazon fish balls. (51396678445).jpg
+- comidas/beiju-de-coco.jpg — Riba28-maps, CC BY-SA 3.0 — File:Beiju de folha; beiju molhado.JPG
+- comidas/acaraje.jpg — Fonseca001, Public domain — File:Acarajé - A baiana do Acarajé Claudia Baiana.jpg
+- comidas/moqueca-baiana.jpg — Thiago MTB, CC BY-SA 4.0 — File:Moqueca de Cação.jpg
+- comidas/tapioca.jpg — Kauan Martinez, CC BY-SA 4.0 — File:Pão com manteiga e mortadela + Mamão.jpg
+- comidas/baiao-de-dois.jpg — Zé Carlos Barretta, CC BY 2.0 — File:Baião de dois.jpg
+- comidas/cuscuz-nordestino.jpg — André Koehne, CC BY-SA 4.0 — File:Cuscuz nordestino (77719).jpg
+- comidas/bolo-de-rolo.jpg — Guilherme Jófili, CC BY 2.0 — File:Bolo de Rolo, doce brasileiro, típico de Pernambuco.jpg
+- comidas/vatapa-baiano.jpg — Nahtanom, CC BY-SA 4.0 — File:Acarajé na Bahia.jpg
+- comidas/mungunza.jpg — Leo Rey, CC BY 2.0 — File:Canjica caipira.jpg
+- comidas/pacoca-de-amendoim.jpg — Márcia Cristina Machado, CC BY-SA 4.0 — File:Paçoca grande.jpg
+- comidas/pe-de-moleque.jpg — No machine-readable author provided. Meksyk~commonswiki assumed (based on copyright claims)., Public domain — File:Pe de moleque.jpg
+- comidas/cocada.jpg — Dtarazona, CC BY-SA 3.0 — File:Cocada on black background 20072011.jpg
+- comidas/bolo-de-milho.jpg — Alebasi24, CC BY-SA 4.0 — File:Bolo de milho caseiro.jpg
+- comidas/queijo-coalho-assado.jpg — Thiago Parente Lima, CC BY-SA 3.0 — File:Queijo coalho.jpg
+- comidas/casquinha-de-siri.jpg — Fabricio Zuardi, CC BY 2.0 — File:Casquinha de siri.jpg
+- comidas/arroz-de-cuxa.jpg — Porto Neto, CC BY-SA 4.0 — File:Cuxá (tentativa).jpg
+- comidas/bobo-de-camarao.jpg — Victorgrigas, CC BY-SA 3.0 — File:Bobo a Dish from Brazil.JPG
+- comidas/arroz-com-pequi.jpg — André Koehne, CC BY 3.0 — File:Arroz com pequi.jpg
+- comidas/empadao-goiano.jpg — Elis Florentine, CC BY 2.0 — File:Empadão Goiano..jpg
+- comidas/maria-isabel.jpg — Pedro J Pacheco, CC BY-SA 4.0 — File:Maria Isabel 03.jpg
+- comidas/galinhada.jpg — Sérgio Savaman Savarese, CC BY 2.0 — File:Galinhada.jpg
+- comidas/sopa-paraguaia.jpg — Everton Zanella Alvarenga, CC BY-SA 2.0 — File:Sopa Paraguaia - DSC00895.jpg
+- comidas/mojica-de-pintado.jpg — MTur Destinos, Public domain — File:Flavioandre gastronomia mujica pintado pocone MT (40064796485).jpg
+- comidas/farofa-de-banana.jpg — Romerito Pontes from São Carlos, CC BY 2.0 — File:(2014-11-22) Bistrô Mar e Arte - Ilhabela - Medalhão de anchova com farofa lambe lambe defumada, banana assada e chips de taioba Romerito Pontes (15869343222).jpg
+- comidas/chipa.jpg — Ekem at English Wikipedia, CC BY-SA 3.0 — File:Chipa Paraguay.jpg
+- comidas/terere.jpg — TitiNicola, CC BY-SA 4.0 — File:Tereré - infusión 2.jpg
+- comidas/frango-com-pequi.jpg — Pablo Regino/MTur Destinos, Attribution — File:Pablo Regino Gastronomia Goias GO - 39162550310.jpg
+- comidas/frango-com-guariroba.jpg — Pablo Regino/MTur Destinos, Attribution — File:Pablo Regino Gastronomia Goias GO - 39162550310.jpg
+- comidas/curau-de-milho.jpg — Leo Rey, CC BY 2.0 — File:Canjica caipira.jpg
+- comidas/bolo-de-arroz.jpg — Sergio Calleja (Life is a trip) from Barcelona, Spain, CC BY-SA 2.0 — File:Bolo de Arroz (Lisbon) (460849845) (2).jpg
+- comidas/doce-de-buriti.jpg — Rapper Ouriço, Public domain — File:Caixa contendo doce de buriti.jpg
+- comidas/doce-de-mamao-em-calda.jpg — Jdvillalobos, CC BY-SA 3.0 — File:Cabellito de angel papaya.jpg
+- comidas/feijoada.jpg — Bradleyzm, CC BY-SA 4.0 — File:Feijoada à brasileira -02.jpg
+- comidas/pao-de-queijo.jpg — Acfariac, CC BY-SA 4.0 — File:Pao de queijo brasil.jpg
+- comidas/virado-a-paulista.jpg — edsonaoki, CC BY-SA 3.0 — File:Virado a paulista.jpg
+- comidas/moqueca-capixaba.jpg — Melsj, CC BY-SA 4.0 — File:Moqueca vegana.jpg
+- comidas/frango-com-quiabo.jpg — Gatorfan252525, CC BY-SA 4.0 — File:Fried chicken, fried okra and mac & cheese from Mary Mac's Tea Room in Atlanta.jpg
+- comidas/bolinho-de-bacalhau.jpg — Christian Benseler, CC BY 2.0 — File:Bolinho de bacalhau da vovó (16079982696).jpg
+- comidas/feijao-tropeiro.jpg — Melsj, CC BY-SA 4.0 — File:Feijão tropeiro vegano.jpg
+- comidas/couve-a-mineira.jpg — Melsj, CC BY-SA 4.0 — File:Mexido à mineira.jpg
+- comidas/broa-de-fuba.jpg — Melsj, CC BY-SA 4.0 — File:Broinha de fubá.jpg
+- comidas/doce-de-leite.jpg — Marcelo Träsel from Porto Alegre, Brasil, CC BY-SA 2.0 — File:Sorvetes caseiros de morango e doce de leite (5545487070).jpg
+- comidas/romeu-e-julieta.jpg — إيان, CC BY-SA 4.0 — File:Romeo e julieta.jpg
+- comidas/brigadeiro.jpg — enioprado, CC BY-SA 3.0 — File:Edifício Tuiuti - panoramio.jpg
+- comidas/torta-capixaba.jpg — Rafael Deminicis, CC BY-SA 4.0 — File:Torta Capixaba 1 Rafael Deminicis.jpg
+- comidas/bolinho-de-aipim-com-carne-seca.jpg — Hamsarhasfat, CC BY-SA 4.0 — File:Ubi Kayu Goreng, Juni 2023.jpg
+- comidas/file-a-oswaldo-aranha.jpg — Vinicius Siqueira, CC BY-SA 4.0 — File:Filé a Osvaldo Aranha.jpg
+- comidas/cuscuz-paulista.jpg — Everton137, CC BY 3.0 — File:Cuscuz paulista.jpg
+- comidas/pizza-de-mussarela.jpg — Avelludo, CC BY-SA 4.0 — File:Pizza quatro estações do Zona Sul (Rio de Janeiro).jpg
+- comidas/polenta-frita.jpg — El Mono Español, CC BY-SA 4.0 — File:Polenta fritta da sgranocchiare.jpg
+- comidas/yakisoba.jpg — Andy Li, CC0 — File:Pork yakisoba and tofu yakisoba, Korpan, Brighton.jpg
+- comidas/sanduiche-de-mortadela.jpg — Nikodem Nijaki, CC BY-SA 3.0 — File:Mortadella IMGP0978.jpg
+- comidas/churrasco-gaucho.jpg — GSelau, CC BY-SA 4.0 — File:Traditional Churrasco at South Brazil.jpg
+- comidas/barreado.jpg — Cataleirxs, CC BY-SA 4.0 — File:Barreado 2.jpg
+- comidas/arroz-carreteiro.jpg — Marcuskuhl, CC BY-SA 4.0 — File:Arroz Carreteiro 1.jpg
+- comidas/cuca.jpg — Ricardo Yasuda, CC BY 2.0 — File:Cuca de banana.jpg
+- comidas/pinhao-cozido.jpg — Simplus Menegati, CC BY-SA 4.0 — File:Entrevero de pinhão de Telemaco Borba02.jpg
+- comidas/chimarrao.jpg — ChimaAddicted, CC BY-SA 4.0 — File:Erva mate chimarrao in big cuia.jpg
+- comidas/polenta-com-molho.jpg — Alex Rio Brazil, CC0 — File:Prato de Polenta com molho de tomate foto vertical.jpg
+- comidas/pierogi.jpg — Diego Delso, CC BY-SA 3.0 — File:Pierogi, Gniezno, Polonia3.jpg
+- comidas/tainha-assada.jpg — Marcelo Träsel from Porto Alegre, Brasil, CC BY-SA 2.0 — File:Tainha assada (4377196858).jpg
+- comidas/eisbein.jpg — Rainer Zenz, CC BY-SA 3.0 — File:Eisbein-2.jpg
+- comidas/ostras-gratinadas.jpg — Rodrigo.Argenton, CC BY-SA 3.0 — File:Ostra gratinada.jpg
+- comidas/salada-de-batata-alema.jpg — Xemenendura, CC BY-SA 4.0 — File:Papas aliñás 1.jpg

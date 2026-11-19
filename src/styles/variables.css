@@ -1,0 +1,16 @@
+:root {
+    --verde-escuro: #1b5e20;
+    --verde: #2e7d32;
+    --amarelo: #f4c542;
+    --azul: #1e3a8a;
+    --creme: #eaf5e3;
+    --texto: #2b2b2b;
+    --texto-suave: #5b5b5b;
+    --branco: #ffffff;
+
+    --fonte-titulo: "Playfair Display", serif;
+    --fonte-texto: "Poppins", sans-serif;
+
+    --raio: 24px;
+    --sombra: 0 10px 30px rgba(0, 0, 0, 0.12);
+}

@@ -1,0 +1,320 @@
+.hero{
+
+    width:96%;
+    height:720px;
+
+    margin:20px auto;
+
+    border-radius:28px;
+
+    overflow:hidden;
+
+    position:relative;
+
+    background-size:cover;
+    background-position:right center;
+    background-repeat:no-repeat;
+
+    display:flex;
+    align-items:center;
+
+}
+
+.overlay{
+
+    position:absolute;
+    inset:0;
+
+    background:linear-gradient(
+        90deg,
+        rgba(8,32,8,.88) 0%,
+        rgba(8,32,8,.70) 30%,
+        rgba(8,32,8,.15) 58%,
+        rgba(8,32,8,0) 100%
+    );
+
+}
+
+.hero-container{
+
+    position:relative;
+    z-index:2;
+
+    width:100%;
+    padding-left:65px;
+
+}
+
+.hero-texto{
+
+    width:42%;
+    color:white;
+
+}
+
+.hero-texto h1{
+
+    font-family:"Playfair Display",serif;
+
+    font-size:72px;
+
+    line-height:1;
+
+    margin-bottom:10px;
+
+    font-weight:700;
+
+}
+
+.hero-texto span{
+
+    color:#F6C54B;
+
+}
+
+.hero-texto h2{
+
+    font-family:"Playfair Display",serif;
+
+    font-style:italic;
+
+    font-weight:500;
+
+    font-size:56px;
+
+    line-height:1.1;
+
+    margin-bottom:25px;
+
+}
+
+.hero-texto p{
+
+    width:80%;
+
+    font-family:"Poppins",sans-serif;
+
+    font-size:18px;
+
+    line-height:1.8;
+
+    margin-bottom:35px;
+
+}
+
+.hero-botoes{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+.btn-amarelo{
+
+    background:#F4C542;
+
+    color:#000;
+
+    border:none;
+
+    border-radius:50px;
+
+    padding:16px 34px;
+
+    font-family:"Poppins";
+
+    font-weight:600;
+
+    cursor:pointer;
+
+    transition:.35s;
+
+}
+
+.btn-amarelo:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 12px 25px rgba(0,0,0,.3);
+
+}
+
+.btn-transparente{
+
+    background:transparent;
+
+    color:white;
+
+    border:2px solid white;
+
+    border-radius:50px;
+
+    padding:16px 34px;
+
+    font-family:"Poppins";
+
+    cursor:pointer;
+
+    transition:.35s;
+
+}
+
+.btn-transparente:hover{
+
+    background:white;
+
+    color:#222;
+
+}
+
+.ondas{
+
+    position:absolute;
+
+    bottom:-1px;
+
+    left:0;
+
+    width:100%;
+
+    height:95px;
+
+    overflow:hidden;
+
+}
+
+.onda{
+
+    position:absolute;
+
+    width:120%;
+
+    height:90px;
+
+    left:-10%;
+
+    border-radius:50%;
+
+}
+
+.verde{
+
+    background:#2E7D32;
+
+    bottom:35px;
+
+    clip-path:ellipse(60% 55% at 50% 100%);
+
+}
+
+.amarela{
+
+    background:#F4C542;
+
+    bottom:18px;
+
+    clip-path:ellipse(60% 55% at 50% 100%);
+
+}
+
+.azul{
+
+    background:#0D47A1;
+
+    bottom:0;
+
+    clip-path:ellipse(60% 55% at 50% 100%);
+
+}
+
+/* ---------- Tablet e celular ---------- */
+
+@media (max-width: 900px){
+
+    .hero{
+        height:640px;
+    }
+
+    .hero-container{
+        padding-left:40px;
+        padding-right:40px;
+    }
+
+    .hero-texto{
+        width:75%;
+    }
+
+    .hero-texto h1{
+        font-size:60px;
+    }
+
+    .hero-texto h2{
+        font-size:42px;
+    }
+
+    .hero-texto p{
+        width:100%;
+    }
+
+}
+
+@media (max-width: 640px){
+
+    .hero{
+        width:94%;
+        height:auto;
+        min-height:560px;
+
+        margin:12px auto;
+
+        border-radius:22px;
+    }
+
+    /* no celular o escurecido cobre toda a foto, para o texto ficar legível */
+    .overlay{
+        background:linear-gradient(
+            180deg,
+            rgba(0,0,0,.55) 0%,
+            rgba(0,0,0,.72) 100%
+        );
+    }
+
+    .hero-container{
+        padding:60px 22px 110px;
+    }
+
+    .hero-texto{
+        width:100%;
+    }
+
+    .hero-texto h1{
+        font-size:44px;
+    }
+
+    .hero-texto h2{
+        font-size:30px;
+        margin-bottom:18px;
+    }
+
+    .hero-texto p{
+        font-size:16px;
+        line-height:1.7;
+        margin-bottom:28px;
+    }
+
+    .btn-amarelo{
+        width:100%;
+        padding:18px 34px;
+        font-size:1.05rem;
+    }
+
+    .ondas{
+        height:70px;
+    }
+
+    .onda{
+        height:70px;
+    }
+
+}

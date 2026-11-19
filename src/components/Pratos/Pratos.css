@@ -1,0 +1,268 @@
+.pratos-dica{
+    margin:0 0 18px;
+    font-size:1rem;
+    color:var(--texto-suave);
+}
+
+/* ---------- Carrossel ---------- */
+
+.pratos-area{
+    position:relative;
+}
+
+.pratos-trilho{
+    list-style:none;
+
+    /* folga em volta dos cartões para a sombra não ser cortada */
+    margin:0 -24px -18px;
+    padding:10px 24px 44px;
+    scroll-padding:0 24px;
+
+    display:flex;
+    gap:22px;
+
+    overflow-x:auto;
+    scroll-snap-type:x mandatory;
+    -webkit-overflow-scrolling:touch;
+
+    scrollbar-width:none;
+}
+
+.pratos-trilho::-webkit-scrollbar{
+    display:none;
+}
+
+.pratos-trilho > li{
+    flex:0 0 290px;
+    scroll-snap-align:start;
+    display:flex;
+}
+
+.pratos-seta{
+    position:absolute;
+    top:38%;
+    z-index:5;
+
+    width:52px;
+    height:52px;
+    padding:0 0 4px;
+
+    border:none;
+    border-radius:50%;
+
+    background:#fff;
+    color:var(--verde-escuro);
+    box-shadow:0 6px 20px rgba(0,0,0,.25);
+
+    font-size:2rem;
+    line-height:1;
+    cursor:pointer;
+    transition:.25s;
+}
+
+.pratos-seta:hover:not(:disabled){
+    background:var(--verde-escuro);
+    color:#fff;
+}
+
+.pratos-seta:disabled{
+    opacity:.3;
+    cursor:default;
+}
+
+.pratos-seta-esq{
+    left:-22px;
+}
+
+.pratos-seta-dir{
+    right:-22px;
+}
+
+/* ---------- Receita aberta ---------- */
+
+.receita-aberta{
+    display:grid;
+    grid-template-columns:minmax(240px, .8fr) 1.5fr;
+
+    margin-top:14px;
+    scroll-margin-top:100px;
+
+    background:#fff;
+    border-radius:28px;
+    overflow:hidden;
+    box-shadow:var(--sombra);
+
+    border-top:6px solid var(--cor);
+}
+
+.receita-aberta-foto{
+    min-height:340px;
+}
+
+.receita-aberta-conteudo{
+    padding:34px 40px 40px;
+}
+
+.receita-fechar{
+    float:right;
+
+    margin:0 0 10px 12px;
+    padding:10px 16px;
+
+    border:2px solid #c9dcc0;
+    border-radius:50px;
+    background:#fff;
+    color:#333;
+
+    font-family:var(--fonte-texto);
+    font-size:.85rem;
+    cursor:pointer;
+}
+
+.receita-fechar:hover{
+    background:#e3f0dc;
+}
+
+.receita-aberta-origem{
+    display:block;
+    font-size:.78rem;
+    font-weight:600;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    color:var(--verde);
+}
+
+.receita-aberta-conteudo h3{
+    margin:2px 0 10px;
+    font-size:2.3rem;
+    line-height:1.1;
+    color:#1a1a1a;
+}
+
+.receita-aberta-descricao{
+    margin:0 0 20px;
+    color:var(--texto-suave);
+}
+
+.receita-info{
+    clear:both;
+
+    list-style:none;
+    margin:0 0 26px;
+    padding:14px 0;
+
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px 36px;
+
+    border-top:1px solid #d3e4cb;
+    border-bottom:1px solid #d3e4cb;
+}
+
+.receita-info li{
+    display:flex;
+    flex-direction:column;
+}
+
+.receita-info span{
+    font-size:.78rem;
+    color:var(--texto-suave);
+}
+
+.receita-info strong{
+    font-size:1rem;
+}
+
+.receita-colunas{
+    display:grid;
+    grid-template-columns:1fr 1.3fr;
+    gap:32px;
+}
+
+.receita-colunas h4{
+    margin:0 0 12px;
+    font-family:var(--fonte-titulo);
+    font-size:1.25rem;
+}
+
+.receita-ingredientes,
+.receita-preparo{
+    margin:0;
+    padding-left:20px;
+    font-size:1rem;
+}
+
+.receita-ingredientes li,
+.receita-preparo li{
+    margin-bottom:9px;
+}
+
+.receita-nota{
+    margin:24px 0 0;
+    padding:14px 18px;
+
+    background:#fff6d6;
+    border-left:4px solid var(--amarelo);
+    border-radius:0 12px 12px 0;
+
+    font-size:.95rem;
+}
+
+/* ---------- Celular ---------- */
+
+@media (max-width: 900px){
+    .receita-aberta{
+        grid-template-columns:1fr;
+    }
+
+    .receita-aberta-foto{
+        min-height:200px;
+    }
+
+    .receita-aberta-conteudo{
+        padding:26px 22px 32px;
+    }
+
+    .receita-aberta-conteudo h3{
+        font-size:1.9rem;
+    }
+
+    .receita-colunas{
+        grid-template-columns:1fr;
+        gap:22px;
+    }
+}
+
+@media (max-width: 600px){
+    .pratos-trilho{
+        gap:16px;
+        margin:0 -12px -18px;
+        padding:10px 12px 44px;
+        scroll-padding:0 12px;
+    }
+
+    .pratos-trilho > li{
+        flex-basis:78%;
+    }
+
+    .pratos-seta{
+        width:44px;
+        height:44px;
+        font-size:1.7rem;
+        top:30%;
+    }
+
+    .pratos-seta-esq{
+        left:2px;
+    }
+
+    .pratos-seta-dir{
+        right:2px;
+    }
+
+    .receita-fechar{
+        float:none;
+        display:block;
+        margin:0 0 16px;
+    }
+}

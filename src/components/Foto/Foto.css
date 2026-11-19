@@ -1,0 +1,25 @@
+.foto {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Espaço mostrado enquanto a foto não existe */
+.foto-vazia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--cor, #2e7d32), #10250c);
+}
+
+.foto-vazia span {
+    font-size: 3rem;
+    opacity: 0.55;
+}
+
+/* Ilustração mostrada enquanto a foto não existe */
+.foto-ilustracao svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}

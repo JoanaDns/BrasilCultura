@@ -1,0 +1,256 @@
+.pagina-mapa{
+    /* mais larga que as outras páginas, para o mapa ficar grande */
+    width:min(1600px, 97%);
+
+    display:grid;
+    grid-template-columns:minmax(240px, .5fr) 2fr;
+    gap:40px;
+    align-items:start;
+
+    min-height:calc(100vh - 80px);
+    padding-top:10px;
+    padding-bottom:40px;
+}
+
+.mapa-lateral{
+    position:sticky;
+    top:100px;
+}
+
+.mapa-texto h2{
+    margin:0 0 16px;
+    font-size:3.2rem;
+    line-height:1.1;
+    color:#1a1a1a;
+}
+
+.mapa-texto p{
+    max-width:380px;
+    margin:0 0 28px;
+    font-size:1.1rem;
+    color:var(--texto-suave);
+}
+
+.mapa-legenda{
+    list-style:none;
+    margin:0 0 28px;
+    padding:0;
+
+    display:grid;
+    gap:6px;
+}
+
+.mapa-legenda a{
+    display:inline-flex;
+    align-items:center;
+    gap:14px;
+
+    padding:6px 0;
+
+    text-decoration:none;
+    font-size:1.2rem;
+    font-weight:500;
+    color:#222;
+
+    transition:.25s;
+}
+
+.mapa-legenda a:hover,
+.mapa-legenda a:focus-visible{
+    color:var(--verde-escuro);
+    transform:translateX(6px);
+}
+
+.legenda-cor{
+    width:22px;
+    height:22px;
+    border-radius:50%;
+    flex-shrink:0;
+}
+
+.mapa-info{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+
+    min-height:64px;
+    padding:14px 18px;
+
+    border-left:4px solid var(--amarelo);
+    background:rgba(255,255,255,.7);
+    border-radius:0 12px 12px 0;
+
+    font-size:.95rem;
+    color:var(--texto-suave);
+}
+
+.mapa-info strong{
+    font-family:var(--fonte-titulo);
+    font-size:1.15rem;
+    color:#1a1a1a;
+}
+
+.mapa-desenho svg{
+    display:block;
+    width:100%;
+    max-width:1050px;
+    height:auto;
+    margin:0 auto;
+
+    border-radius:26px;
+    box-shadow:var(--sombra);
+}
+
+.mapa-regiao path{
+    stroke:#fff;
+    stroke-width:2.5;
+    stroke-linejoin:round;
+
+    cursor:pointer;
+    transition:filter .25s;
+}
+
+.mapa-regiao:hover path,
+.mapa-regiao.ativa path,
+.mapa-regiao:focus-visible path{
+    filter:brightness(1.12) drop-shadow(0 6px 10px rgba(0,0,0,.35));
+}
+
+.mapa-brilho,
+.mapa-foto,
+.mapa-icone{
+    pointer-events:none;
+}
+
+.mapa-icone{
+    font-size:30px;
+    text-anchor:middle;
+    dominant-baseline:central;
+}
+
+.mapa-enfeite{
+    text-anchor:middle;
+    pointer-events:none;
+}
+
+.mapa-oceano{
+    font-family:var(--fonte-titulo);
+    font-style:italic;
+    font-size:22px;
+    fill:var(--azul);
+    opacity:.75;
+}
+
+.mapa-linha line{
+    stroke:var(--verde-escuro);
+    stroke-width:1.5;
+    stroke-dasharray:7 6;
+    opacity:.45;
+}
+
+.mapa-linha text{
+    font-family:var(--fonte-texto);
+    font-size:12px;
+    fill:var(--verde-escuro);
+    opacity:.7;
+}
+
+.mapa-regiao:focus{
+    outline:none;
+}
+
+.mapa-rotulo{
+    pointer-events:none;
+
+    text-anchor:middle;
+    font-family:var(--fonte-texto);
+    font-size:25px;
+    font-weight:700;
+
+    fill:#fff;
+    stroke:rgba(0,0,0,.35);
+    stroke-width:3px;
+    paint-order:stroke;
+}
+
+/* ---------- Tablet e celular ---------- */
+
+@media (max-width: 860px){
+    .pagina-mapa{
+        width:92%;
+        grid-template-columns:1fr;
+        gap:18px;
+        min-height:0;
+        padding-top:24px;
+    }
+
+    /* os blocos da lateral passam a se organizar direto na grade,
+       para o mapa ficar entre o texto e a legenda */
+    .mapa-lateral{
+        display:contents;
+    }
+
+    .mapa-texto{
+        order:1;
+    }
+
+    .mapa-desenho{
+        order:2;
+    }
+
+    .mapa-legenda{
+        order:3;
+    }
+
+    .mapa-info{
+        display:none;
+    }
+
+    .mapa-texto h2{
+        font-size:2.4rem;
+    }
+
+    .mapa-texto p{
+        max-width:none;
+        margin-bottom:0;
+    }
+
+    .mapa-desenho svg{
+        max-width:none;
+    }
+
+    /* legenda vira botões grandes, fáceis de tocar */
+    .mapa-legenda{
+        grid-template-columns:1fr 1fr;
+        gap:10px;
+        margin:0;
+    }
+
+    .mapa-legenda li:last-child{
+        grid-column:1 / -1;
+    }
+
+    .mapa-legenda a{
+        display:flex;
+        width:100%;
+        min-height:52px;
+        padding:12px 12px;
+        gap:10px;
+
+        background:#fff;
+        border-radius:14px;
+        box-shadow:0 4px 14px rgba(0,0,0,.1);
+
+        font-size:.98rem;
+        white-space:nowrap;
+    }
+
+    .legenda-cor{
+        width:18px;
+        height:18px;
+    }
+
+    .mapa-legenda a:hover{
+        transform:none;
+    }
+}

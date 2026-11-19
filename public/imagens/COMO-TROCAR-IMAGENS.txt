@@ -1,0 +1,16 @@
+FOTOS DO CULTURABRASIL
+
+Todas as fotografias devem ser JPG e ficam nesta pasta.
+
+Para substituir uma foto:
+- Abra a pasta da categoria (comidas, povos, regioes, mapa ou home).
+- Substitua o arquivo JPG mantendo exatamente o mesmo nome.
+- Atualize o navegador. Não precisa alterar código.
+
+Para adicionar uma foto:
+- Salve o JPG na pasta correta.
+- Use o slug do item como nome, sem acentos e com hífens.
+- Exemplo: comidas/bolo-de-rolo.jpg
+
+O mapa interativo do Brasil continua em SVG (desenho vetorial clicável).
+As fotografias usadas no site são JPG.

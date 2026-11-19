@@ -1,0 +1,117 @@
+.povos{
+    width:min(1200px, 92%);
+    margin:70px auto 90px;
+}
+
+.povos-texto{
+    max-width:640px;
+    margin-bottom:40px;
+}
+
+.povos-texto h2{
+    margin:0 0 14px;
+    font-size:2.4rem;
+    line-height:1.15;
+    color:#1a1a1a;
+}
+
+.povos-texto p{
+    margin:0;
+    color:var(--texto-suave);
+}
+
+.povos-linha{
+    list-style:none;
+    margin:0;
+    padding:0;
+
+    display:grid;
+    grid-template-columns:repeat(5, 1fr);
+    gap:24px;
+}
+
+.povo{
+    text-align:center;
+    position:relative;
+}
+
+/* linha do tempo ligando os povos */
+.povo::before{
+    content:"";
+    position:absolute;
+    top:49px;
+    left:-12px;
+    right:-12px;
+    height:2px;
+    background:rgba(46,125,50,.25);
+    z-index:0;
+}
+
+.povo:first-child::before{
+    left:50%;
+}
+
+.povo:last-child::before{
+    right:50%;
+}
+
+.povo-foto{
+    position:relative;
+    z-index:1;
+
+    width:100px;
+    height:100px;
+    margin:0 auto 14px;
+
+    border-radius:50%;
+    overflow:hidden;
+
+    border:4px solid #fff;
+    box-shadow:var(--sombra);
+}
+
+.povo-foto .foto-vazia span{
+    font-size:2.2rem;
+}
+
+.povo h3{
+    margin:0;
+    font-size:1.05rem;
+    color:#1a1a1a;
+}
+
+.povo-periodo{
+    display:block;
+    margin:2px 0 8px;
+
+    font-size:.8rem;
+    font-weight:600;
+    color:var(--verde);
+}
+
+.povo p{
+    margin:0;
+    font-size:.85rem;
+    color:var(--texto-suave);
+}
+
+@media (max-width: 960px){
+    .povos-linha{
+        grid-template-columns:repeat(2, 1fr);
+        row-gap:36px;
+    }
+
+    .povo::before{
+        display:none;
+    }
+}
+
+@media (max-width: 560px){
+    .povos-linha{
+        grid-template-columns:1fr;
+    }
+
+    .povos-texto h2{
+        font-size:1.9rem;
+    }
+}
